@@ -6,8 +6,12 @@ yarn create next-app --example https://github.com/happy663/next-ts-tailwind
 ## VScode の拡張機能（推奨)
 
 Tailwind CSS IntelliSense
-
 https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcs
+Prettier - Code formatter
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+ESLint
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
 
 
 ## 設定した項目の説明
