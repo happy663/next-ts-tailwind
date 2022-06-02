@@ -10,8 +10,6 @@ Tailwind CSS IntelliSense
 
 https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcs
 
-Tailwind CSS のインテリセンスが効く
-
 ## tailwind.config.js
 
 Jit(Just-in-Time mode)を設定
