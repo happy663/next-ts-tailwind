@@ -7,6 +7,7 @@ yarn create next-app --example https://github.com/happy663/next-ts-tailwind
 ## vscode の拡張機能
 
 Tailwind CSS IntelliSense
+
 https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcs
 
 Tailwind CSS のインテリセンスが効く
@@ -16,6 +17,7 @@ Tailwind CSS のインテリセンスが効く
 Jit(Just-in-Time mode)を設定
 実際に利用しているユーティリティのみビルドして生成するモード
 ビルド高速化,バリアントを組み合わせて使用可能など様々なメリットがある
+
 https://tailwindcss.com/blog/just-in-time-the-next-generation-of-tailwind-css
 
 ## eslintrc.json
