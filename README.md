@@ -14,6 +14,7 @@ https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcs
 
 Jit(Just-in-Time mode)を設定
 実際に利用しているユーティリティのみビルドして生成するモード
+
 ビルド高速化,バリアントを組み合わせて使用可能など様々なメリットがある
 
 https://tailwindcss.com/blog/just-in-time-the-next-generation-of-tailwind-css
