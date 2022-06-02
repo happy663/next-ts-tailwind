@@ -1,4 +1,4 @@
-# Next.js+TypeScript+TailwindCSS+Prettier+eslint の設定をしたプロジェクト
+# Next.js+TypeScript+TailwindCSS+Prettier+ESlint の設定をしたプロジェクト
 
 ## 導入する
 yarn create next-app --example https://github.com/happy663/next-ts-tailwind
