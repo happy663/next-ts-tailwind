@@ -1,4 +1,4 @@
-# Next.js+TypeScript+TailwindCSS+Prettier+eslint の設定をしたプロジェクト
+# Next.js+TypeScript+Tailwind CSS+Prettier+ESlint の設定をしたプロジェクト
 
 ## 導入する
 yarn create next-app --example https://github.com/happy663/next-ts-tailwind
@@ -6,8 +6,14 @@ yarn create next-app --example https://github.com/happy663/next-ts-tailwind
 ## VScode の拡張機能（推奨)
 
 Tailwind CSS IntelliSense
-
 https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcs
+
+Prettier - Code formatter
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+ESLint
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
 
 
 ## 設定した項目の説明
@@ -23,7 +29,7 @@ https://tailwindcss.com/blog/just-in-time-the-next-generation-of-tailwind-css
 
 ### eslintrc.json
 
-モジュールの import 順及び tailwind CSS のクラス名のソートを行う,子のないコンポーネントの余分な終了タグの消去,未使用モジュールの削除を設定
+モジュールの import 順及び tailwind CSS のクラス名のソート,子のないコンポーネントの余分な終了タグの消去,未使用モジュールの削除を設定
 
 .vscode に source.fixAll.eslint が設定してあるのでセーブすれば自動で修正される
 
@@ -31,6 +37,6 @@ https://tailwindcss.com/blog/just-in-time-the-next-generation-of-tailwind-css
 
 ### tsconfig.json
 
-baseUrl を追加 絶対 Path で import する
+baseUrl を追加して絶対 Path で import 
 
-それ以外はデフォルト
+
