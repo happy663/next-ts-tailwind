@@ -1,9 +1,10 @@
 import type { NextPage } from "next";
+import { Hello } from "@/components/Hello";
 
 const Home: NextPage = () => {
   return (
     <div>
-      <div>Hello World!</div>
+      <Hello />
     </div>
   );
 };
