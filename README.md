@@ -4,7 +4,7 @@
 yarn create next-app --example https://github.com/happy663/next-ts-tailwind
 
 
-## vscode の拡張機能
+## VScode の拡張機能
 
 Tailwind CSS IntelliSense
 
