@@ -23,7 +23,7 @@ https://tailwindcss.com/blog/just-in-time-the-next-generation-of-tailwind-css
 
 ### eslintrc.json
 
-モジュールの import 順及び tailwind CSS のクラス名のソートを行う,子のないコンポーネントの余分な終了タグの消去,未使用モジュールの削除を設定
+モジュールの import 順及び tailwind CSS のクラス名のソート,子のないコンポーネントの余分な終了タグの消去,未使用モジュールの削除を設定
 
 .vscode に source.fixAll.eslint が設定してあるのでセーブすれば自動で修正される
 
