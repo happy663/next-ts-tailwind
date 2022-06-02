@@ -31,6 +31,6 @@ https://tailwindcss.com/blog/just-in-time-the-next-generation-of-tailwind-css
 
 ### tsconfig.json
 
-baseUrl を追加して絶対 Path で import する
+baseUrl を追加して絶対 Path で import 
 
 
