@@ -33,4 +33,4 @@ https://tailwindcss.com/blog/just-in-time-the-next-generation-of-tailwind-css
 
 baseUrl を追加 絶対 Path で import する
 
-それ以外はデフォルト
+
